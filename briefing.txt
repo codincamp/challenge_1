@@ -24,3 +24,4 @@ Image de fond :
 
 Icônes sociales :
 - utiliser Font Awesome : https://fortawesome.github.io/Font-Awesome/
+- Note: Les icones ont changé, prenez ceux qui ressemblent le plus
