@@ -12,8 +12,8 @@ Couleurs :
 
 Typos :
 Les fonts utilisés sur le site sont :
-- 'Josefin Sans' (https://www.google.com/fonts#UsePlace:use/Collection:Josefin+Sans)
-- 'Bitter' (https://www.google.com/fonts#UsePlace:use/Collection:Bitter)
+- 'Josefin Sans' (https://fonts.google.com/?selection.family=Josefin+Sans&query=josefin+sans)
+- 'Bitter' (https://fonts.google.com/?selection.family=Bitter&query=bitter)
 - La taille du titre principal est de 133px
 - Les polices des blocs de texte sous les images sont de 14px
 - Les autres titres sont à 18px
